@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "341474",
+    "password": "wyxar14830146",
+    "database": "api-personal-portfolio_db",
+    "host": "mysql-api-personal-portfolio.alwaysdata.net",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "341474",
+    "password": "wyxar14830146",
+    "database": "api-personal-portfolio_db",
+    "host": "mysql-api-personal-portfolio.alwaysdata.net",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "341474",
+    "password": "wyxar14830146",
+    "database": "api-personal-portfolio_db",
+    "host": "mysql-api-personal-portfolio.alwaysdata.net",
+    "dialect": "mysql"
+  }
+}
