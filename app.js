@@ -5,6 +5,8 @@ const app = express();
 const methodOverride =  require('method-override');
 
 let main = require("./routes/main")
+const cors = require('cors');
+app.use(cors());
 
 app.use(express.json());
 app.use(express.urlencoded({extended:false}));
